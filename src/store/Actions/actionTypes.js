@@ -1,0 +1,6 @@
+export const  ADD_ITEM = "ADD_ITEM"
+export const REMOVE_ITEM = "REMOVE_ITEM"
+export const CLEAR_CART ="CLEAR_CART"
+export const ADD_COUNT = "ADD_COUNT"
+export const REDUCE_COUNT = "REDUCE_COUNT"
+export const COUNT_ITEMS = "COUNT_ITEMS"
