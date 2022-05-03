@@ -3,9 +3,9 @@ import React from 'react'
 function Footer() {
   return (
     <div>
-        <div class="text-center p-6 bg-gray-400 mt-6">
+        <div className="text-center p-6 bg-gray-400 mt-6">
             <span>© 2021 Copyright:</span>
-            <a class="text-white font-semibold" href="https://twitter.com/simbamkenya">Phares</a>
+            <a className="text-white font-semibold" href="https://twitter.com/simbamkenya">Phares</a>
         </div>
     </div>
   )
